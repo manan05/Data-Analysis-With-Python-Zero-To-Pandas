@@ -1,0 +1,6 @@
+Curriculum for this course:
+Lecture 1 & 2 = Intro to Programming with Python
+Lecture 3 = Numerical Computation with Numpy
+Lecture 4 = Analyzing tabular data using pandas
+Lecture 5 = Data visualization with Matplotlib and Seaborn
+Lecture 6 = Exploratory Data Analysis: A case study
